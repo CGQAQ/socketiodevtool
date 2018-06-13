@@ -1,0 +1,9 @@
+{
+  "name": "socketiodevtool",
+  "version": "0.0.1",
+  "description": "a socket.io devtool written by electronjs",
+  "main": "index.js",
+  "repository": "https://github.com/CGQAQ/socketiodevtool.git",
+  "author": "Jason @CGQAQ",
+  "license": "MIT"
+}
